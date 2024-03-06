@@ -1,5 +1,5 @@
 {
-  "name": "@abhishek/datetime",
+  "name": "@abhishekkushwaha/datetime",
   "version": "1.0.0",
   "description": "Library that makes date and time easy to work with.",
   "main": "src/index.js",
